@@ -1,5 +1,15 @@
-![Aditya Chhaparia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-chhaparia&show_icons=true&theme=radical)
+# Hi ✋, I'm Aditya Chhaparia
 
+## About Me
+👨‍💻 I'm currently a student in IIT BHU pursuing a BTech in Computer Science. <br />
+✨ I'm passionate about WebDev and I'm still exploring the world of web. <br />
+
+## Stats
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-chhaparia&show_icons=true&theme=radical" /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-chhaparia&show_icons=true&theme=radical" /> <br />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chhaparia&layout=ompact&theme=radical" /> <br /> -->
+</div>
 
 <!--
 **aditya-chhaparia/aditya-chhaparia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
