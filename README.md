@@ -1,4 +1,5 @@
-### Hi there 👋
+![Aditya Chhaparia's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-chhaparia&show_icons=true&theme=radical)
+
 
 <!--
 **aditya-chhaparia/aditya-chhaparia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
