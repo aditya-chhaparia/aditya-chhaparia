@@ -1,7 +1,7 @@
 # Hi ✋, I'm Aditya Chhaparia
 
 ## About Me
-👨‍💻 I'm currently a student in IIT BHU pursuing a BTech in Computer Science. <br />
+👨‍💻 I'm currently a student in IIT BHU pursuing a BTech in Computer Science and am an intern at TaggedWeb. <br />
 ✨ I'm passionate about WebDev and I'm still exploring the world of web. <br />
 
 ## Stats
