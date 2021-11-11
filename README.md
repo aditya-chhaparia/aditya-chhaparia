@@ -1,4 +1,5 @@
 # Hi ✋, I'm Aditya Chhaparia
+![](https://komarev.com/ghpvc/?username=aditya-chhaparia&color=blue)
 
 ## About Me
 👨‍💻 I'm currently a student in IIT BHU pursuing a BTech in Computer Science and am an intern at TaggedWeb. <br />
