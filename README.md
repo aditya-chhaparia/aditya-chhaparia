@@ -1,9 +1,11 @@
 # Hi ✋, I'm Aditya Chhaparia
 ![](https://komarev.com/ghpvc/?username=aditya-chhaparia&color=blue)
+[![Gmail Badge](https://img.shields.io/badge/-adityachhaparia101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityachhaparia101@gmail.com)](mailto:adityachhaparia101@gmail.com)
 
-## About Me
+<h2 align="center">About Me</h2>
 👨‍💻 I'm currently a student in IIT BHU pursuing a BTech in Computer Science and am an intern at TaggedWeb. <br />
 ✨ I'm passionate about WebDev and I'm still exploring the world of web. <br />
+
 <br />
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
