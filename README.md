@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-adityachhaparia101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityachhaparia101@gmail.com)](mailto:adityachhaparia101@gmail.com)
 
 <h2 align="center">About Me</h2>
-👨‍💻 I'm currently a student in IIT BHU pursuing a BTech in Computer Science and am an intern at TaggedWeb. <br />
+👨‍💻 I'm currently a student in IIT BHU pursuing a BTech in Computer. <br />
 ✨ I'm passionate about WebDev and I'm still exploring the world of web. <br />
 
 <br />
